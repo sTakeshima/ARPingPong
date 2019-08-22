@@ -1,2 +1,2 @@
 # ARPingPong
-AR PingPong開発用プロジェクト
+AR Core + Unityで卓球ゲームを作る
